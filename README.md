@@ -18,8 +18,7 @@ The computer will randomly choose an option, and the winner will be determined b
 * Player vs Computer
 * Random computer choices
 * Win, lose, or draw result
-* Score tracking
-* Option to restart the game
+
 
 ## Requirements
 
